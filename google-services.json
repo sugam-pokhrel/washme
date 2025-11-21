@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607752613612",
+    "project_id": "washconnect-9e642",
+    "storage_bucket": "washconnect-9e642.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607752613612:android:a6cecce2c892001d887fc9",
+        "android_client_info": {
+          "package_name": "wash.connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZPxnHNRvH8R9pIZVnsniEq2FwntDSmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

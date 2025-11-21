@@ -20,10 +20,18 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "wash.connect",
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "scheme": "washconnect",
+    "extra": {
+      "eas": {
+        "projectId": "4ef619a4-219b-4878-abae-23f7967e1535"
+      }
     }
   }
 }
